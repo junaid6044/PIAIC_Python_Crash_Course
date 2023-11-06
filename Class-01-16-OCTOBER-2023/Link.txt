@@ -1,0 +1,14 @@
+Video Lecture:
+https://www.youtube.com/watch?v=rwDHhx76MMg&ab_channel=PanaverseDAO
+
+Github:
+https://github.com/panaverse/learn-modern-python/
+
+
+create environment command:
+conda create -n python12 python==3.12 -y
+
+then run following command:
+conda activate python12
+
+pip install -r requirements.txt

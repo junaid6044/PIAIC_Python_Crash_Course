@@ -1,0 +1,5 @@
+Video Lecture:
+https://www.youtube.com/watch?v=Dc7s2kfJ_28&ab_channel=PanaverseDAO
+
+Github:
+https://github.com/panaverse/learn-modern-python/
